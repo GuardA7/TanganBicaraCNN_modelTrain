@@ -11,3 +11,5 @@
 4. Menjalankan API
 - python api.py
 
+5. akses api
+- http://<URL>/predict
