@@ -56,4 +56,4 @@ curl -X POST http://localhost:5000/predict \
 
 Selesai! Sekarang API siap menerima gambar gesture tangan untuk diklasifikasi.
 
-Jika kamu ingin, saya bisa bantu juga setup deploy ke server publik (ngrok, railway, dll).
+
