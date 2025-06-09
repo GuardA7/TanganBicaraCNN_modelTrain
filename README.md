@@ -12,4 +12,4 @@
 - python api.py
 
 5. akses api
-- http://<URL>/predict
+- http://url-kamu/predict
